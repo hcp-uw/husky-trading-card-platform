@@ -1,0 +1,1 @@
+# husky-trading-card-platform
