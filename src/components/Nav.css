@@ -62,7 +62,7 @@ a {
 .nav-box {
     display: flex;
     align-items: center;
-    width: 13em;
+    width: 9em;
     display: flex;
     justify-content: space-between;
 }
