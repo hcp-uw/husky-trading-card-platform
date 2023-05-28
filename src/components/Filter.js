@@ -17,6 +17,7 @@ const theme = createTheme({
       styleOverrides: {
         root: {
           // marginRight: '18px',
+          
         },
       },
     },
@@ -42,6 +43,7 @@ const theme = createTheme({
           ':hover': {
             background: 'rgba(150, 150, 150, 0.5)',
           },
+          
         },
       },
     },
@@ -109,13 +111,16 @@ export default function PositionedMenu() {
             transition: 'none',
             // borderRadius: '15px',
             //transform: 'translateX(5%) translateY(5%)',
-            background: 'rgba(255, 255, 255, 0.2)',
+            background: '#C0BBA8',
             borderRadius: '12px',
+            border: 1,
+            borderColor: '#97917C',
             boxShadow: '0 4px 30px rgba(0, 0, 0, 0.1)',
             backdropFilter: 'blur(5px)',
             webkitBackdropFilter: 'blur(5px)',
             border: '1px solid rgba(30, 30, 30, 0.0)',
             color: '#1E1E1E',
+            fontWeight: '200',
           }
         }}
       >

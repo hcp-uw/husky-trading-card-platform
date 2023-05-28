@@ -17,10 +17,6 @@ const Nav = ({user}) => {
                             <MessageSquare size="2em"/>
                         </Badge>
                         
-                        <Badge badgeContent={user.cart.length} sx={{"& .MuiBadge-badge": {color: "white", backgroundColor: "#DB7676", fontWeight: "700", fontFamily: "Inter"}}}>
-                            <ShoppingCart size="2em"/>
-                        </Badge>
-
                         <div className="">
                             <ProfileMenu user={user}/>
                         </div>
