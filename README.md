@@ -1,4 +1,5 @@
-![Husky Trading Card Platform)](https://user-images.githubusercontent.com/70782025/226498724-8d42fcc2-dd6b-4be3-bd9a-e6beab4417de.png)
+![Husky Trading Card Platform)](https://github.com/hcp-uw/husky-trading-card-platform/assets/70782025/1cca13f3-f4e5-4b21-aca2-f37716d7022a)
+
 # Husky Trading Card Platform
 - A HCP Project
 
